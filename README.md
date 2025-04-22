@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Israr29&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israr29&theme=radical" />
 </div>
 
 ---
