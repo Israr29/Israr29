@@ -31,13 +31,7 @@
 
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Israr29&show_icons=true&theme=radical" />
-</div>
-
----
 
 ## 📫 Let's Connect
 
