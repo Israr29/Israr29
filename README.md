@@ -12,7 +12,7 @@
 - ⚛️ Currently leveling up in **React** and **AI-based tools**
 - 📈 Building projects to sharpen my skills and grow my portfolio
 - 🌱 Always learning — currently diving into **Next.js** and **TypeScript**
-- ✨ Looking for **internship/job opportunities** in web development
+  
 
 ---
 
