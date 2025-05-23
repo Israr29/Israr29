@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Israr Ahmed 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;AI+Lover;Lifelong+Learner&center=true&width=500&height=45">
@@ -31,27 +31,17 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [**My Portfolio**](https://your-portfolio-link.com) – Modern portfolio built with React + Firebase  
-- 🧠 [**AI Video Generator**](https://github.com/yourusername/ai-video-gen) – Create short videos using AI tools  
+- 🔗 [**My Portfolio**](https://personal-project-99684.web.app)– Modern portfolio built with React + Firebase  
 - 🌐 [**NextGenTech Blog**](https://github.com/yourusername/nextgentech) – Tech blog for modern web development
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</div>
-
----
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/israr-ahmed29/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:im.israrahmed29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://personal-project-99684.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
