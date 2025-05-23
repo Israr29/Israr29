@@ -6,17 +6,16 @@
 
 ---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 - 💻 Frontend developer passionate about creating clean, modern UIs  
 - ⚛️ Currently leveling up in **React** and **AI-based tools**
 - 📈 Building projects to sharpen my skills and grow my portfolio
 - 🌱 Always learning — currently diving into **Next.js** and **TypeScript**
-  
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,10 +28,7 @@
 
 ---
 
-
-
-
-## 📫 Let's Connect
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/israr-ahmed29/">
@@ -52,4 +48,4 @@
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
-> Let's build something awesome together! 🚀
+> Let’s build something awesome together! 🚀
