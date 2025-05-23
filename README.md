@@ -39,6 +39,9 @@
   <a href="https://www.linkedin.com/in/israr-ahmed29/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:im.israrahmed29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://personal-project-99684.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+  [![Fiverr Badge](https://img.shields.io/badge/Fiverr-Click%20Here-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/WElwvwX)
+
 </p>
 
 ---
