@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Israr Ahmed 🙋‍♂️</h1>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;AI+Lover;Lifelong+Learner&center=true&width=500&height=45">
@@ -6,16 +6,17 @@
 
 ---
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
 - 💻 Frontend developer passionate about creating clean, modern UIs  
 - ⚛️ Currently leveling up in **React** and **AI-based tools**
 - 📈 Building projects to sharpen my skills and grow my portfolio
 - 🌱 Always learning — currently diving into **Next.js** and **TypeScript**
+- ✨ Looking for **internship/job opportunities** in web development
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,24 +29,32 @@
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+## 📌 Featured Projects
+
+- 🔗 [**My Portfolio**](https://your-portfolio-link.com) – Modern portfolio built with React + Firebase  
+- 🧠 [**AI Video Generator**](https://github.com/yourusername/ai-video-gen) – Create short videos using AI tools  
+- 🌐 [**NextGenTech Blog**](https://github.com/yourusername/nextgentech) – Tech blog for modern web development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</div>
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/israr-ahmed29/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:im.israrahmed29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://personal-project-99684.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.fiverr.com/s/WElwvwX">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
-> Let’s build something awesome together! 🚀
+> Let's build something awesome together! 🚀
