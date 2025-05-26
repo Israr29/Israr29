@@ -12,7 +12,7 @@
 - ⚛️ Currently leveling up in **React** and **AI-based tools**
 - 📈 Building projects to sharpen my skills and grow my portfolio
 - 🌱 Always learning — currently diving into **Next.js** and **TypeScript**
-- ✨ Looking for **internship/job opportunities** in web development
+
 
 ---
 
@@ -32,7 +32,7 @@
 ## 📌 Featured Projects
 
 - 🔗 [**My Portfolio**](https://personal-project-99684.web.app)– Modern portfolio built with React + Firebase  
-- 🌐 [**NextGenTech Blog**](https://github.com/yourusername/nextgentech) – Tech blog for modern web development
+
 
 
 
