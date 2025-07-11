@@ -31,7 +31,7 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [**My Portfolio**](https://personal-project-99684.web.app)– Modern portfolio built with React + Firebase  
+- 🔗 [**My Portfolio**](https://personal-project-99684.web.app)– Modern portfolio
 
 
 
