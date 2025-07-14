@@ -10,7 +10,7 @@
 
 - 💻 Frontend developer passionate about creating clean, modern UIs  
 - ⚛️ Currently leveling up in **React** and **AI-based tools**
-- 📈 Building projects to sharpen my skills and grow my portfolio
+- 📈 Building projects to sharpen my skills and grow  portfolio
 - 🌱 Always learning — currently diving into **Next.js** and **TypeScript**
 
 
