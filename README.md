@@ -19,13 +19,16 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-FF512F?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1DA1F2?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FBC02D)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=2196F3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
+![Firebase](https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=firebase&logoColor=000000&labelColor=FFCA28)
+
 </div>
+
 
 ---
 
