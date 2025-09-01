@@ -34,7 +34,7 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [**My Portfolio**](https://personal-project-99684.web.app)– Modern portfolio
+- 🔗 [**My Portfolio**](https://personal-project-99684.web.app)– Modern portfolio- Which presents my projects skills and experience!
 
 
 
