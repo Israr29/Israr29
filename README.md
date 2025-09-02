@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Israr Ahmed 👋</h1>
+<h1 align="center">Hey there, I'm Israr Ahmed 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;AI+Lover;Lifelong+Learner&center=true&width=500&height=45">
