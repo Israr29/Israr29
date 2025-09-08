@@ -25,7 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FBC02D)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=2196F3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
-![Firebase](https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=firebase&logoColor=000000&labelColor=FFCA28)
+
 
 </div>
 
